@@ -1,1 +1,3 @@
-class A
+class AddGradeAndBirthdate < ActiveRecord::Migration
+  
+  def change 
